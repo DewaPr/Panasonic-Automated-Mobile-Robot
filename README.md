@@ -25,4 +25,4 @@ The AMR was successfully deployed and commissioned at the Panasonic facility. It
 
 ## Project Status: **Archived**
 ---
-*Created by [Your Name], [Year]*
+*Created by Dewa, 2025*
