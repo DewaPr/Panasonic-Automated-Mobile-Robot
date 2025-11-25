@@ -1,8 +1,8 @@
 # Panasonic Automated Mobile Robot
 This repository documents the development and deployment of an Automated Mobile Robot (AMR) at a Panasonic Manufacturing facility. The project's core challenge was to create a reliable indoor positioning and navigation system for a dynamic industrial environment.
 
-![GIF of the AMR in action](placeholder.png)
-*(A short video or GIF of the robot moving would be perfect here!)*
+![Photos of the AMR in action](placeholder.png)
+*(To Be Added, Please check https://www.linkedin.com/in/dewapramudya/ -> Project for updated image)*
 
 ---
 
