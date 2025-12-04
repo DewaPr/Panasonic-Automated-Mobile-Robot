@@ -23,6 +23,9 @@ The AMR is built on a tiered hardware and software stack for robust performance.
 ## Project Outcome
 The AMR was successfully deployed and commissioned at the Panasonic facility. It reliably transported materials, leading to an increase in operational efficiency and a reduction in manual handling tasks. But, this project cannot be continued because due to Panasonic safety standard reason.
 
+## Demonstration
+more image and testing on my LinkedIn: [dewapramudya](https://linkedin.com/in/dewapramudya)
+
 ## Project Status: **Archived**
 ---
 *Created by Dewa, 2025*
